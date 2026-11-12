@@ -1,6 +1,6 @@
 # Flowplan — documents, databases, whiteboards and a daily journal for teams, self-hosted. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/fe2x9n)
 
 [Flowplan](https://github.com/yannicschuller/flowplan) (AGPL-3.0, by Yannic Schuller) is a Notion-style workspace: pages and
 real-time collaborative documents, databases with table/board/calendar/timeline views, whiteboards, forms, a daily journal,
